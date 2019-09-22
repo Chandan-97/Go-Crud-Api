@@ -1,2 +1,5 @@
 .idea/
 bin/
+pkg/
+github.com/
+golang.org/
